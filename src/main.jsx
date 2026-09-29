@@ -7,6 +7,5 @@ import Main from './components/Main/Main.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Main/>
   </StrictMode>,
 )
